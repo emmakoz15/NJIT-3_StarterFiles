@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Interstellar",
+            "iscore": 8.9,
+            "rating": "PG-13",
+            "runtime": 169,
+            "released": [2014, 10, 26],
+            "country": "USA",
+            "posters": ["img/interstellar.jpg", "img/interstellar2_.webp", "img/interstellar3.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0816692/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_inter%2520stel",
+            "website": "",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
+      },
+      {
+            "title": "Inception",
+            "iscore": 8.9,
+            "rating": "PG-13",
+            "runtime": 148,
+            "released": [2010, 7, 13],
+            "country": "USA",
+            "posters": ["img/Inception.jpg", "img/inception2.jpeg"],
+            "imdb": "https://www.imdb.com/title/tt1375666/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_inception",
+            "website": "",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
+      },
+      {
+            "title": "The Life Aquatic with Steve Zissou",
+            "iscore": 9.5,
+            "rating": "R",
+            "runtime": 148,
+            "released": [2004, 12, 25],
+            "country": "USA",
+            "posters": ["img/The Life Aquatic with Steve Zissou .webp", "img/The Life Aquatic with Steve Zissou 2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0362270/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_the%2520life%2520aqua",
+            "website": "",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
       }
 ]
